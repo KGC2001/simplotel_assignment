@@ -1,0 +1,131 @@
+*{
+    margin: 0px;
+}
+.webpage{
+    display: flex;
+    flex-direction: column;
+    width: auto;
+}
+.nav-bar h1{
+    padding: 0px;
+    margin: 0px;
+}
+.nav-bar button{
+    background-color: #fc8181;
+    border: 2px solid #fc8181;
+    font-size: large;
+    font-weight: bold;
+    
+}
+.but:hover{
+    background-color: aqua;
+    border: 2px solid sandybrown;
+}
+.nav-bar{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    padding: 5px;
+    background-color: #fc8181;
+}
+.menuimag{
+    width: 30px;
+    height: 30px;
+}
+.fp{
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+}
+.fpf{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 50%;
+    height: 400px;
+    gap: 20px;
+    background-image: linear-gradient(to left,#d4bd8c, #edb4b4,#c78b81);
+}
+.fps{
+    width: 50%;
+    height: 400px;
+}
+
+.imm{
+    width: 100%;
+    height: 100%;
+}
+button{
+    background-color: #fc8199;
+    border: 5px solid #fc8191;
+}
+.spf{
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    margin-top: 40px;
+}
+.spfp{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 50%;
+    gap: 15px;
+}
+.spfpf{
+    display: flex;
+    flex-direction: column;
+    width: 35%;height: 20%;
+    gap: 10px;
+}
+.spfps{
+width: 35%;
+height: 41%;
+}
+.spspf{
+    display: flex;
+    flex-direction: column;
+    padding: 30px;
+    gap: 6px;
+    background-color: #fc8191;
+}
+.spsp{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 50%;
+    height: 180px;
+}
+.imm3 {
+    width: 100%;
+    height: 100%;
+}
+.imm2{
+    width: 100%;
+    height: 100%;
+}
+.imm1{
+    width: 100%;
+    height: 100%;
+}
+.cli{
+    gap: 2px;
+}
+.imma{
+    margin-bottom: -9px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
